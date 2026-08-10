@@ -28,17 +28,15 @@ Fullstack Developer & IT Helpdesk Support at **PT Karabha Digdaya (Emeralda Golf
 **Other**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge)
 
+**Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 *Bonus skill: IT Helpdesk Support & Network Infrastructure*
 
 ## 🎓 Education
 
 - B.Sc. — Universitas Nusa Mandiri
 - Diploma — Universitas Bina Sarana Informatika
-
-## 📈 GitHub Stats
-
-![Fahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsmokefhm&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinsmokefhm&layout=compact)
 
 ## 🌐 Connect
 
