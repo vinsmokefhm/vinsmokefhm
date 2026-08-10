@@ -1,6 +1,8 @@
 # Hi, I'm Fahmi 👋
 
-Fullstack Developer & IT Helpdesk Support at **PT Karabha Digdaya (Emeralda Golf Club)** — building web and mobile applications end-to-end, from backend architecture to UI.
+Fullstack Developer & IT Helpdesk Support at PT Karabha Digdaya (Emeralda Golf Club) — building web and mobile applications end-to-end, from backend architecture to UI.
+
+I'm currently excited about learning and growing into a well-rounded Fullstack Developer and Software Engineer, with the belief that this knowledge will open up great career opportunities for me in the future. I'm also open to remote work — happy to bring value to your project if given the chance.
 
 ## 🔭 What I'm Working On
 
